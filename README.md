@@ -1,3 +1,3 @@
 # The-Art-Of-Biology
 
-![](art/example1.png?raw=true)
+![](Art/example1.png?raw=true)
